@@ -34,7 +34,7 @@ git town propose
 echo a1 > a.txt
 echo a2 >> a.txt
 git add .
-git commit -m "a"
+git commit -m "a updated"
 git town sync
 
 # ship root (or use GH)
